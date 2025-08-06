@@ -1,0 +1,12 @@
+# MetaScan v2.1 Enhanced - Core Dependencies (Bug-Free Version)
+Flask==3.0.3
+Werkzeug==3.0.3
+Pillow==10.4.0
+
+# Optional Enhanced Features (install if needed)
+# opencv-python-headless==4.10.0.84
+# numpy==1.26.4  
+# geopy==2.4.1
+
+# Note: The app works perfectly with just the core dependencies above.
+# Optional libraries add enhanced features but gracefully degrade if missing.
